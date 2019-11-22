@@ -47,7 +47,7 @@ function setUserName() {
         localStorage.setItem('name', myName);
         if (myName === 'Yana' || myName === 'Joy' || myName === '珊珊' ||
         myName === '黄江珊' || myName === '宝贝' || myName === '宝贝老婆' || 
-        myName === '老婆') {
+        myName === '老婆' || myName === '天天老婆' || myName === '姐姐') {
             alert('我也觉得，宝贝老婆。');
         } else {
             alert('点点也觉得。');
