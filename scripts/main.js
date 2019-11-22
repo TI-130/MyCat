@@ -50,7 +50,7 @@ function setUserName() {
         myName === '老婆' || myName === '天天老婆' || myName === '姐姐') {
             alert('我也觉得，宝贝老婆。');
         } else {
-            alert('点点也觉得。');
+            alert(myName + '，谢谢啦～点点也觉得。');
         }
             myHeading.textContent = 'Mindy酷毙了，对吧 ' + myName;
     }
